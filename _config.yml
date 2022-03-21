@@ -1,16 +1,16 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: The-F00L's Blog
+description: "The-F00L's Blog about computer related stuff programming ,hacking and in general "
 author:
   name: "The-F00L"
   email: "thezero.thef00l@gmail.com"
-  url: ""
+  url: "https://the-f00l.github.io/blog/"
 
 baseurl: /
 
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 6
+paginate: 7
 paginate_path: /page/:num/
 
 defaults:

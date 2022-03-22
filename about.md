@@ -20,7 +20,7 @@ Post name explanation:<br>
 
 *such as IBM tranings, microsoft learn,google developers etc.
 
-More information about me is on my personal progress tracking [site]()
+More information about me is on [my personal progress tracking site](https://thef00l.vercel.app/)
 
 ## Social:
 
